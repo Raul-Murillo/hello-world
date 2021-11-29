@@ -30,7 +30,7 @@
 | Header | Title |
 | Paragraph | Text |
 
-```
+```c++
 #include <iostream>
 #include<stdlib.h>
 #include<time.h>
