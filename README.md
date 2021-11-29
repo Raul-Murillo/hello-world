@@ -1,17 +1,17 @@
 # hello-world
 
-## Raúl Isaí Murillo Alemán
+## Raúl Isaí Murillo Alemán  100
 ## Carrera - ITC
 
 ## Christopher Gabriel Pedraza Pohlenz
 ## Carrara - ITC
 
 **bold text**
-  
+
 *italicized text*
 
 > blockquote
-> 
+>
 1. First item
 2. Second item
 3. Third item
@@ -194,7 +194,7 @@ int main() {
     }
   }
   while (opcion != 0);
-    
+
   return 0;
 }
 ```
