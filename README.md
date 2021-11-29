@@ -3,6 +3,9 @@
 ## Raúl Isaí Murillo Alemán
 ## Carrera - ITC
 
+## Christopher Gabriel Pedraza Pohlenz
+## Carrara - ITC
+
 **bold text**
   
 *italicized text*
