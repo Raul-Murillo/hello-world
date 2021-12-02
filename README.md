@@ -6,6 +6,9 @@
 ## Christopher Gabriel Pedraza Pohlenz
 ## Carrara - ITC
 
+## Mauro Alejandro Martínez Lozano
+## Carrara - ITC
+
 **bold text**
 
 *italicized text*
